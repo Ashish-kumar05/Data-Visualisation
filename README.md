@@ -13,15 +13,15 @@ Seaborn library aims to make a more attractive visualization of the central part
 
 # Categories of Plots in seaborn library
 
-Distribution plots: This type of plot is used for examining both types of distributions, i.e., univariate and bivariate distribution.
+Distribution plots: This type of plot is used for examining both types of distributions, i.e., univariate and bivariate distribution.<br>
 
-Relational plots: This type of plot is used to understand the relation between the two given variables.
+Relational plots: This type of plot is used to understand the relation between the two given variables.<br>
 
-Regression plots: Regression plots in the seaborn library are primarily intended to add an additional visual guide that will help to emphasize dataset patterns during the analysis of exploratory data.
+Regression plots: Regression plots in the seaborn library are primarily intended to add an additional visual guide that will help to emphasize dataset patterns during the analysis of exploratory data.<br>
 
-Categorical plots: The categorical plots are used to deals with categories of variables and how we can visualize them.
+Categorical plots: The categorical plots are used to deals with categories of variables and how we can visualize them.<br>
 
-Multi-plot grids: The multi-plot grids are also a type of plot that is a useful approach is to draw multiple instances for the same plot with different subsets of a single dataset.
+Multi-plot grids: The multi-plot grids are also a type of plot that is a useful approach is to draw multiple instances for the same plot with different subsets of a single dataset.<br>
 
 Matrix plots: The matrix plots are a type of arrays of the scatterplots.
 
