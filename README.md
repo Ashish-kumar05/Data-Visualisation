@@ -1,6 +1,10 @@
 # Data-Visualisation
 Visualization the data using seaborn library.
 
+# What is Data Visualization?
+
+Data visualization is the representation of data through use of common graphics, such as charts, plots, infographics, and even animations. These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand.
+
 # Seaborn Library
 Seaborn is a library for visualization of the graphical statistical plotting in Python. Seaborn provides many color palettes and defaults beautiful styles to make the creation of many statistical plots in Python more attractive.
 
